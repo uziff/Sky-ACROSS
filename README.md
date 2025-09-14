@@ -1,5 +1,5 @@
 # Sky
 **PROJECT**: ACROSS (Advanced Computing Reasoning for Operating Systems Script)
 
-_This project uses methods from [SAID](https://stopai.haxs.dev/)_
+_This project uses methods from [SAID](https://stopai.haxs.dev/)_<br>
 Coming soon :)
